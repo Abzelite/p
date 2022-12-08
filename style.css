@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+h1{
+    font-size: 100px;
+}
+#button
+{
+    font-size: 25px;
+    font-weight: bold;
+}
